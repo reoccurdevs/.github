@@ -2,6 +2,4 @@
 
 We make open source projects and software.
 
-Currently, we develop:
-
-- autumncord
+![Metrics](https://github.com/reoccurdevs/.github/blob/main/github-metrics.svg)
